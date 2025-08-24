@@ -55,8 +55,6 @@
 
 **Comment:** i'm a white woman in my late 60's and believe me, they are not too crazy about me either!!
 
-**Comment:** i'm a white woman in my late 60's and believe me, they are not too crazy about me either!!
-
 
 - Toxicity Labels: All 0.0
 - Identity Mention Labels: female: 1.0, white: 1.0 (all others 0.0)
